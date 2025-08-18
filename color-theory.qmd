@@ -30,7 +30,7 @@ editor: visual
 
 -   [COLOR MATTERS](https://colormatters.com/)
 
--   [https://www.w3schools.com/colors/colors_hsl.asp]
+-   [color](https://www.w3schools.com/colors/colors_hsl.asp)
 
 ### Practice
 
@@ -39,4 +39,5 @@ editor: visual
 [Color Hunt](https://colorhunt.co/)
 
 [一文解决你所有的绘图配色](https://mp.weixin.qq.com/s/zqRQ10x4-KsNN_puljY4eg)
+
 
